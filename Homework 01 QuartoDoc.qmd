@@ -1,0 +1,16 @@
+---
+title: "Homework 01"
+author: "ait"
+format: html
+editor: visual
+---
+
+```{r}
+#hello Helena
+2+4
+```
+
+```{r}
+#Comentario: alteracoes ait enviar para hag
+487598375987*0.0948
+```
