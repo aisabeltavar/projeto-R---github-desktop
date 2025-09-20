@@ -14,3 +14,11 @@ editor: visual
 #Comentario: alteracoes ait enviar para hag
 487598375987*0.0948
 ```
+#hello Isabel
+#nota_hag01_20250920
+#adicionada a data frame
+dados_pacientes <- data.frame(
+  idade = c(25,30,45),
+  nome = c("Joao", "Ana", "Marta"),
+  temperatura = c(36.5, 37.2, 38.0)
+)
